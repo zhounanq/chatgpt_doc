@@ -1,3 +1,9 @@
 [
-  "github-sync"
+  "highlightr-plugin",
+  "editing-toolbar",
+  "obsidian-auto-link-title",
+  "markdown-prettifier",
+  "table-editor-obsidian",
+  "global-proxy",
+  "dataview"
 ]
